@@ -116,7 +116,7 @@
 
 .header {
 }
-.header-nav {
+.header-nav .header-nav-link {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
@@ -148,13 +148,6 @@
 .header-nav-list {
 }
 .header-nav-item {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .header-address {
   font-style: normal;
@@ -171,6 +164,10 @@
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.header-address-link:hover,
+.header-address-link:focus {
+  color: #404bbf;
 }
 
 /* Section-Hero */
