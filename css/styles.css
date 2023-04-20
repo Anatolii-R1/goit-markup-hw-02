@@ -466,6 +466,7 @@ body {
 .filters-button-all:hover,
 .filters-button-all:focus {
   background-color: #404bbf;
+  color: #ffffff;
 }
 .filters-button-web {
   font-family: 'Roboto';
