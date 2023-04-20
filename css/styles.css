@@ -31,6 +31,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+.button {
+  font-family: var(--primary-font);
+}
 .section {
   background-color: #2e2f42;
 }
