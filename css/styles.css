@@ -35,7 +35,6 @@ body {
   font-family: inherit;
 }
 .section {
-  background-color: #2e2f42;
 }
 
 .list {
@@ -471,42 +470,6 @@ body {
 .filters-button-all:focus {
   background-color: #404bbf;
   color: #ffffff;
-}
-.filters-button-web {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #4d5ae5;
-  background: #f4f4fd;
-}
-.filters-button-app {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #4d5ae5;
-  background: #f4f4fd;
-}
-.filters-button-design {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #4d5ae5;
-  background: #f4f4fd;
-}
-.filters-button-marketing {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #4d5ae5;
-  background: #f4f4fd;
 }
 
 .row-list {
