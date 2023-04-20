@@ -32,7 +32,7 @@ body {
   background-color: #ffffff;
 }
 .button {
-  font-family: var(--primary-font);
+  font-family: inherit;
 }
 .section {
   background-color: #2e2f42;
