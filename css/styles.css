@@ -172,10 +172,10 @@ body {
   text-decoration: none;
   text-transform: none;
   color: #ffffff;
-  background-color: var(--color-grey);
+  background-color: var(--color-navy-blue);
 }
 .button {
-  font-family: inherit;
+  font-family: Roboto, sans-serif;
   background-color: var(--color-iris);
   font-family: 'Roboto';
   font-style: normal;
@@ -380,7 +380,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--color-navy-blue);
+  color: var(--color-cloud);
 }
 .header-nav-list {
 }
