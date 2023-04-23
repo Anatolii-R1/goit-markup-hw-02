@@ -46,7 +46,7 @@ img {
 }
 
 .button {
-  font-family: inherit;
+  font-family: Roboto, sans-serif;
 }
 .section {
 }
@@ -176,7 +176,7 @@ img {
 
 /* Section-Hero */
 
-.hero-saction {
+.hero-section {
   background-color: var(--color-navy-blue);
 }
 .main-title {
@@ -441,7 +441,7 @@ img {
   background-color: var(--color-navy-blue);
 }
 .button {
-  font-family: inherit;
+  font-family: Roboto, sans-serif;
   background-color: var(--color-iris);
   font-family: 'Roboto';
   font-style: normal;
